@@ -8,6 +8,11 @@ In the project directory, you can run:
 
 Install app dependencies
 
+Add these values to a .env file in the root of the project
+
+REACT_APP_POLYGON_API_KEY=<your-polygon-api-key>
+REACT_APP_POLYGON_BASE_URL=https://api.polygon.io
+
 ### `npm start`
 
 Runs the app in the development mode.\

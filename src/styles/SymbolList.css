@@ -1,0 +1,22 @@
+.symbols-container {
+	border: 1px solid gray;
+	border-radius: 5px;
+	margin: 1rem 0;
+	width: 90%;
+	height: 10rem;
+	overflow: scroll;
+}
+
+.symbol-container {
+	list-style: none;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.symbol {
+	border: 1px solid lightBlue;
+	background: lightBlue;
+	padding: 0.2rem 0.5rem;
+	border-radius: 5px;
+	margin: 1rem;
+}

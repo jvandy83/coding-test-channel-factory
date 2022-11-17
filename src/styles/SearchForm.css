@@ -1,0 +1,50 @@
+.search-form {
+	border: 1px solid gray;
+	border-radius: 5px;
+	padding: 2rem;
+	width: 90%;
+}
+
+.search-input {
+	display: flex;
+	justify-content: center;
+	margin: 1rem 0;
+}
+
+.stock-search-container {
+	position: relative;
+	display: flex;
+	justify-content: center;
+}
+
+.input-errors {
+	position: absolute;
+	top: 48px;
+	font-size: 0.8rem;
+	color: red;
+}
+
+.symbol-input-container {
+	padding: 1rem 0;
+}
+
+.find-button {
+	margin-top: 1rem;
+	width: 14rem;
+	padding: 0.2rem 0.5rem;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.hint-container {
+	position: relative;
+	display: flex;
+	justify-content: center;
+}
+
+.hint {
+	position: absolute;
+	top: -20px;
+	font-size: 0.8rem;
+	color: green;
+}

@@ -1,0 +1,50 @@
+.display-results {
+	width: 40rem;
+}
+
+.stock-summary {
+	border-radius: 5px;
+	list-style: none;
+	border: 1px solid gray;
+}
+
+.stock-headers {
+	display: flex;
+	list-style: none;
+	justify-content: space-between;
+	padding: 0;
+	border-bottom: 1px solid gray;
+}
+
+.stock-values {
+	display: flex;
+	list-style: none;
+	justify-content: space-between;
+	padding: 0;
+}
+
+.stock-title {
+	font-weight: bold;
+}
+
+.row {
+	width: 15%;
+	display: flex;
+	justify-content: center;
+	padding: 0.5rem 0;
+}
+
+.row-header {
+	font-weight: 600;
+}
+
+.button-container {
+	padding: 1rem 0;
+}
+
+.save-symbol-button {
+	width: 20rem;
+	padding: 0.2rem 0.5rem;
+	border-radius: 5px;
+	cursor: pointer;
+}

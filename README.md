@@ -1,12 +1,12 @@
 # Getting Started with Create React App
 
-### `npm install`
-
-Install app dependencies
-
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Install app dependencies
 
 ### `npm start`
 
